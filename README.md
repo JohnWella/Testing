@@ -1,2 +1,2 @@
-# mocha-and-chai-tests
+# Testing
 My first test with mocha and chai
